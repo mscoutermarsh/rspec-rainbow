@@ -1,6 +1,6 @@
-# Rspec::Rainbow
+# rspec-rainbow
 
-TODO: Write a gem description
+Add some color to your rspec tests!
 
 ## Installation
 
@@ -16,9 +16,13 @@ Or install it yourself as:
 
     $ gem install rspec-rainbow
 
-## Usage
+Then, when running rspec:
 
-TODO: Write usage instructions here
+    $ rspec --format Rainbow
+
+If you want to use Rainbow by default, add it to your ```.rspec``` file.
+
+    --format Rainbow
 
 ## Contributing
 

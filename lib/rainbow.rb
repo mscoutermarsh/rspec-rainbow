@@ -1,6 +1,7 @@
-require 'rspec/core/formatters/base_text_formatter'
+require 'rspec/core/formatters/progress_formatter'
 
-class Rainbow < ::RSpec::Core::Formatters::BaseTextFormatter
+class Rainbow < ::RSpec::Core::Formatters::ProgressFormatter
+  
   def initialize(options)
     @colors = (31..36).to_a
     @color_index = 0
