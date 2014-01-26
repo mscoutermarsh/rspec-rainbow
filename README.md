@@ -1,6 +1,8 @@
 # rspec-rainbow
 
-Add some color to your rspec tests!
+Adds some color to your rspec tests!
+
+Created because I was jealous of how beautiful [Minitest's](https://github.com/seattlerb/minitest) output is.
 
 ## Installation
 
@@ -31,3 +33,7 @@ If you want to use Rainbow by default, add it to your ```.rspec``` file.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Attribution
+
+Based on [Minitest's](https://github.com/seattlerb/minitest) Pride plugin
