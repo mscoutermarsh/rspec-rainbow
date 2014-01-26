@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "rspec-rainbow"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ["Mike Coutermarsh"]
   spec.email         = ["coutermarsh.mike@gmail.com"]
   spec.description   = %q{the rainbow formatter for RSpec}
