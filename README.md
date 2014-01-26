@@ -7,9 +7,11 @@ Adds some color to your rspec tests!
 ## Installation
 
 Add this line to your application's Gemfile:
-
-    gem 'rspec-rainbow'
-
+```ruby
+group :test do
+  gem 'rspec-rainbow'
+end
+```
 And then execute:
 
     $ bundle install
