@@ -39,3 +39,6 @@ If you want to use Rainbow by default, add it to your ```.rspec``` file.
 ## Attribution :sparkling_heart:
 
 Based on [Minitest's](https://github.com/seattlerb/minitest) Pride plugin
+
+## For Help:
+Tweet [@mscccc](https://twitter.com/mscccc) or open an issue.
