@@ -2,7 +2,7 @@
 
 Adds some color to your rspec tests!
 
-![rspec rainbow](https://raw2.github.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow.jpg)
+![rspec rainbow](https://raw.githubusercontent.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow.jpg)
 
 ## Installation
 
