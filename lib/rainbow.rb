@@ -32,5 +32,4 @@ class Rainbow < ::RSpec::Core::Formatters::ProgressFormatter
     return "38;5;#{code_or_symbol}" if code_or_symbol.is_a?(Integer)
     super
   end
-
 end
