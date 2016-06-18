@@ -1,8 +1,10 @@
 # :rainbow: rspec-rainbow
+[![Gem
+Version](https://badge.fury.io/rb/rspec-rainbow.svg)](https://badge.fury.io/rb/rspec-rainbow)
 
-Adds some color to your rspec tests!
+Adds some pride to your rspec tests!
 
-![rspec rainbow](https://raw.githubusercontent.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow.jpg)
+![rspec rainbow](https://raw.githubusercontent.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow-screenshot.png)
 
 ## Installation
 
@@ -31,7 +33,6 @@ If you want to use Rainbow by default, add it to your ```.rspec``` file.
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/mscoutermarsh/rspec-rainbow. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
-
 
 ## License
 
