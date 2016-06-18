@@ -1,0 +1,10 @@
+Documentation:
+  Enabled: false
+FrozenStringLiteralComment:
+  Enabled: false
+Metrics/LineLength:
+  Max: 140
+AllCops:
+  TargetRubyVersion: 2.1
+  Exclude:
+    - 'bin/*'
