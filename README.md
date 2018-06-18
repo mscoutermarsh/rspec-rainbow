@@ -4,7 +4,8 @@ Version](https://badge.fury.io/rb/rspec-rainbow.svg)](https://badge.fury.io/rb/r
 
 Add some pride to your rspec tests!
 
-<img src="https://raw.githubusercontent.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow-screenshot.png" alt="rspec rainbow" width="500">
+<img src="https://raw.githubusercontent.com/mscoutermarsh/rspec-rainbow/master/rspec-rainbow-screenshot-2.png" alt="rspec rainbow" width="900">
+
 ## Installation
 
 Add this line to your application's Gemfile:
