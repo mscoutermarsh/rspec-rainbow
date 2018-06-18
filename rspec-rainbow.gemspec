@@ -20,5 +20,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'rspec', '>= 2.14.0', '< 4'
   spec.add_development_dependency 'bundler', '~> 1.3'
   spec.add_development_dependency 'rake', '~> 0'
-  spec.add_development_dependency 'rubocop', '~> 0.35'
+  spec.add_development_dependency 'rubocop', '~> 0.49'
 end
